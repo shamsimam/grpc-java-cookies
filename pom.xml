@@ -4,7 +4,7 @@
     <groupId>io.github.shamsimam</groupId>
     <artifactId>grpc-java-cookies</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>grpc-java-cookies</name>
     <url>https://github.com/shamsimam/grpc-java-cookies</url>
     <properties>

@@ -24,7 +24,7 @@ For example, you would add the following to your maven project pom:
 <dependency>
     <groupId>io.github.shamsimam</groupId>
     <artifactId>grpc-java-cookies</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 </dependency>
 ```
 2. Attach the interceptor to your gRPC client channel:
